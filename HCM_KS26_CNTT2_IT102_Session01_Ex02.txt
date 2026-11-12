@@ -1,0 +1,10 @@
+﻿Phần 1 (Rà soát & Phân loại): Dựa vào Mục 2.1 Lesson 02, liệt kê 3 loại dữ liệu thuộc "Vùng cấm tuyệt đối". Đối chiếu với Bảng dữ liệu trên và chỉ ra chính xác từng trường thông tin vi phạm nhóm dữ liệu nào.
+1.Thông tin cá nhân (PII): Họ tên, số điện thoại, địa chỉ nhà của cả 3 khách hàng.
+2.Thông tin tài chính: Số thẻ ATM của chị Mai, hạn mức tín dụng của anh Hùng, mã PIN/CVV của anh Nam.
+3.Dữ liệu nội bộ doanh nghiệp: Danh sách khách hàng VIP và các ghi chú VIP của MartX.
+Phần 2 (Xử lý sự cố): Đánh giá nguy cơ pháp lý MartX phải chịu và đề xuất 3 bước xử lý sự cố khẩn cấp cho Phòng IT.
+Nguy cơ pháp lý: MartX có thể vi phạm quy định bảo vệ dữ liệu cá nhân, bị xử phạt, phải bồi thường nếu gây thiệt hại và mất uy tín với khách hàng.
+-3 bước xử lý khẩn cấp:
+1.Ngăn chặn: Dừng chia sẻ dữ liệu, xóa cuộc trò chuyện và yêu cầu nhà cung cấp AI hỗ trợ xóa dữ liệu.
+2.Kiểm tra: Phòng IT xác định thông tin đã lộ, phối hợp ngân hàng bảo vệ tài khoản và thẻ bị ảnh hưởng.
+3.Khắc phục: Báo cáo sự cố, thông báo cho các bên liên quan theo quy định và hướng dẫn nhân viên cách bảo mật dữ liệu.
